@@ -1,55 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Aspiring Python Developer & ML Enthusiast<br><br>**Subtitle:** Java Explorer ➔ Python & Machine Learning Apprentice<br><br>I'm on a journey to transition from Java to Python with a clear goal: Developing intelligent software for bionic prosthetics. My goal is to bridge the gap between robust backend engineering and real-time AI movement recognition.<br><br>**Location:** Somewhere in Russia<br><br>**Currently working on:** Transitioning to AI for bionic prosthetics<br><br>**Currently learning:** Python core, NumPy, and the basics of Signal Processing<br><br>**Open to collaborating on:** Interesting projects related to MedTech and Data Science<br><br>**Quote:** "The best way to predict the future is to invent it." 🦾
 
-<!--
-<div id="header" align="center">
-  <img src="komarev.com" alt="Views" />
-  <h1>Hi there, I'm Beginner Developer 👋</h1>
-  <p><strong>Java Explorer ➔ Python & Machine Learning Apprentice</strong></p>
-</div>
 
-### 🎯 My Mission
-I'm on a journey with a clear goal: **Developing intelligent software for bionic prosthetics.** I believe that AI can bridge the gap between technology and human capability.
+# 💻 Tech Stack:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DriftIsMyDebug&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DriftIsMyDebug&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DriftIsMyDebug&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-### 🧠 What I'm working on
-- 🌱 **Learning:** Python core, NumPy, and the basics of Signal Processing.
-- 🦾 **Focus:** Analyzing sEMG signals and building my first ML models.
-- 🏗️ **Background:** Strong fundamentals in Java and Distributed Systems logic.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DriftIsMyDebug&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=DriftIsMyDebug&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠 Languages and Tools
-
-<div align="left">
-  <!-- Основные языки -->
-  <img src="cdn.jsdelivr.net" title="Python" width="50" height="50"/>&nbsp;
-  <img src="cdn.jsdelivr.net" title="NumPy" width="50" height="50"/>&nbsp;
-  
-  <br><br>
-  
-  <!-- Инструменты -->
-  <img src="cdn.jsdelivr.net" title="Linux" width="40" height="40"/>&nbsp;
-  <img src="cdn.jsdelivr.net" title="Git" width="40" height="40"/>&nbsp;
-  <img src="cdn.jsdelivr.net" title="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="cdn.jsdelivr.net" title="JS" width="40" height="40"/>&nbsp;
-  <img src="cdn.jsdelivr.net" title="HTML5" width="40" height="40"/>&nbsp;
-  <img src="cdn.jsdelivr.net" title="CSS3" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="github-readme-stats.vercel.app" alt="Stats" />
-  <br>
-  <img src="github-readme-stats.vercel.app" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  "The best way to predict the future is to invent it." 🦾
-</div>
-
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
