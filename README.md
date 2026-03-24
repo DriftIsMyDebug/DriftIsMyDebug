@@ -2,7 +2,7 @@
 **Java Backend Developer | Engineering Robust Systems for Logistics & Beyond**
 
 <small>
-I am a system-oriented developer transitionining from high-level scripting to deep-dive **Java Engineering**. With a background in Maritime University (MSU Nevelskoy), I focus on building reliable, high-performance software for complex logistics and port infrastructure.
+I am a system-oriented developer transitionining from high-level scripting to deep-dive **Java Engineering**. I focus on building reliable, high-performance software for complex logistics and port infrastructure.
 
 I believe in the "Father of Languages" — **Java** — for its strict discipline, scalability, and enterprise-grade reliability. While I use Python for data processing and quick prototyping, Java is my primary tool for architecting the future.
 
