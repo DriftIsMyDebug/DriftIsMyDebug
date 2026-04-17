@@ -1,15 +1,15 @@
 ### 💫 About Me
-**Java Backend Developer | Engineering Robust Systems for Logistics & Beyond**
+**Java Engineer | Building Modern Automotive & Systems Solutions**
 
 <small>
-I am a system-oriented developer transitionining from high-level scripting to deep-dive **Java Engineering**. I focus on building reliable, high-performance software for complex logistics and port infrastructure.
+I am a system-oriented developer transitioning from high-level scripting to deep-dive **Java Engineering**. I focus on architecting reliable, high-performance software with a strict focus on OOP principles and scalability.
 
-I believe in the "Father of Languages" — **Java** — for its strict discipline, scalability, and enterprise-grade reliability. While I use Python for data processing and quick prototyping, Java is my primary tool for architecting the future.
+I believe in the "Father of Languages" — **Java** — for its strict discipline, scalability, and enterprise-grade reliability. Java is my primary tool for architecting robust, long-term solutions.
 
-**Currently focused on:** Java Core (Deep Dive), OOP Design Patterns, and Spring Ecosystem
-**Current Project:** [Port Logistics System] — A high-load container tracking & terminal management engine.
-**Open to collaborating on:** Maritime Tech, Backend Architecture, and Database Optimization
-**Quote:** *"Code is like a vessel: it must be perfectly balanced to survive the storm."* ⚓️☕️
+**Currently focused on:** Java Core (Deep Dive), Android SDK, and OOP Design Patterns.
+**Current Project:** **MyCarHub** — A mobile ecosystem for car enthusiasts, built with Java and modern Android components.
+**Open to collaborating on:** Automotive Tech, Backend Architecture, and Open Source Android projects.
+**Quote:** *"Code is like a finely tuned engine: every component must work in perfect harmony to deliver maximum performance."* 🏎️☕️
 </small>
 
 ## 💻 Tech Stack:
