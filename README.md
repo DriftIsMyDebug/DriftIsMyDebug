@@ -1,15 +1,7 @@
 ### 💫 About Me
-**Infrastructure Engineer | Building Modern Server & Automation Solutions**
 
 <small>
-I am a system-oriented engineer focused on architecting reliable, high-performance infrastructure and server automation. With a solid background in software engineering, I bridge the gap between clean application code and robust server environments.
-
-I leverage my deep understanding of Object-Oriented Programming and development architecture to build secure, scalable, and highly available systems on Linux. My software engineering background allows me to read application logs natively and communicate effectively with development teams.
-
-**Currently focused on:** Linux System Administration, Docker Containerization, Computer Networks, and Bash/Python Automation.
-**Current Practice:** Deploying containerized services, troubleshooting server environments, and building automation scripts.
-**Open to collaborating on:** Infrastructure Automation, Linux Server Orchestration, and DevOps-oriented Open Source projects.
-**Quote:** *"Server infrastructure is like a finely tuned engine: every network, container, and configuration must work in perfect harmony to deliver maximum performance."* 🏎️☕️
+Java Backend Engineer | Building Scalable Applications & Robust InfrastructureI am a software engineer focused on architecting reliable, high-performance backend systems and server solutions. Bridging the gap between clean, efficient application code and modern infrastructure, I design complete ecosystem solutions from the ground up.With a strong foundation in Java, Spring Boot, and Object-Oriented Design, I build secure, scalable microservices and APIs. My system engineering background and deep understanding of Linux, networks, and containerization allow me to optimize application performance at both the code and runtime levels.
 </small>
 
 ## 💻 Tech Stack:
