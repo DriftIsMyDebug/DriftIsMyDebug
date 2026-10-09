@@ -3,7 +3,7 @@
 <small>
 Java Engineer | Scalable Applications & Robust Infrastructure. Delivering secure, scalable microservices and APIs. With a solid background in systems engineering and a deep understanding of Linux, networking, and containerization, I optimize application performance across both code and runtime environments.
   
-Outside of coding, I’m deeply passionate about cars and the JDM culture—whether it's under the hood or at car meets.
+Outside of coding, I’m deeply passionate about cars and the JDM culture — whether it's under the hood or at car meets.
 </small>
 
 ## 💻 Tech Stack:
