@@ -1,7 +1,7 @@
-### 💫 About Me
+### About Me
 
 <small>
-Java Backend Engineer | Building Scalable Applications & Robust InfrastructureI am a software engineer focused on architecting reliable, high-performance backend systems and server solutions. Bridging the gap between clean, efficient application code and modern infrastructure, I design complete ecosystem solutions from the ground up.With a strong foundation in Java, Spring Boot, and Object-Oriented Design, I build secure, scalable microservices and APIs. My system engineering background and deep understanding of Linux, networks, and containerization allow me to optimize application performance at both the code and runtime levels.
+Java Engineer | Scalable Applications & Robust Infrastructure. Delivering secure, scalable microservices and APIs. With a solid background in systems engineering and a deep understanding of Linux, networking, and containerization, I optimize application performance across both code and runtime environments.
 </small>
 
 ## 💻 Tech Stack:
